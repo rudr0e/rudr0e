@@ -1,8 +1,6 @@
-- 👋 Hi, I’m rudra narayana jena (@rudr0e)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rudra Narayana Jena (@rudr0e)
+- 👀 I’m interested in coding, illustrations, AR/VR etc.
+- 🌱 I’m currently learning computer applications.
 
 <!---
 rudr0e/rudr0e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
